@@ -1,0 +1,1 @@
+n=50 para todos excepto sustracción 3 que se le pone un n=10 (a partir de)
