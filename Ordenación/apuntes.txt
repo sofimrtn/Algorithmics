@@ -1,0 +1,19 @@
+ALGORITMOS DE ORDENACION
+--------------------------
+malos (O(n^2))
+-burbuja            <-
+-selección			<-
+-insercción			<-
+
+buenos (O(nlogn))
+-mergesort
+-heapsort
+-quicksort			<-
+
+
+
+------------------------------------------
+
+Poner un procesador
+Unidades de tiempo
+nVeces
